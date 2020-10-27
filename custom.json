@@ -3,7 +3,7 @@
     "words": ["hello", "hi"],
     "proxy": "ALTextToSpeech",
     "method": "say",
-    "args": ["Hello Faris"]
+    "args": ["Hello Fares"]
   },
   {
     "words": ["behavior"],
