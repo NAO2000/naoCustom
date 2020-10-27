@@ -8,7 +8,7 @@
   {
     "words": ["behavior"],
     "proxy": "ALBehaviorManager",
-    "method": "playDefaultProject",
-    "args": []
+    "method": "runBehavior",
+    "args": ["animations/Sit/Waiting/Music_HighwayToHell_1"]
   },
 ]
