@@ -4,5 +4,11 @@
     "proxy": "ALTextToSpeech",
     "method": "say",
     "args": ["Hello Faris"]
-  }
+  },
+  {
+    "words": ["behavior"],
+    "proxy": "ALBehaviorManager",
+    "method": "playDefaultProject",
+    "args": []
+  },
 ]
