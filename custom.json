@@ -12,9 +12,9 @@
     "args": ["animations/Sit/Waiting/Music_HighwayToHell_1"]
   },
     {
-    "words": ["laugh"],
+    "words": ["drive car"],
     "proxy": "ALBehaviorManager",
     "method": "runBehavior",
-    "args": ["animations/Sit/Emotions/Positive/Laugh_1"]
+    "args": ["animations/Sit/Waiting/DriveCar_1"]
   },
 ]
