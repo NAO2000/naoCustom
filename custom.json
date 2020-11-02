@@ -6,7 +6,13 @@
     "args": ["Hello Fares"]
   },
   {
-    "words": ["behavior"],
+    "words": ["go to hell"],
+    "proxy": "ALBehaviorManager",
+    "method": "runBehavior",
+    "args": ["animations/Sit/Waiting/Music_HighwayToHell_1"]
+  },
+    {
+    "words": ["rock and roll"],
     "proxy": "ALBehaviorManager",
     "method": "runBehavior",
     "args": ["animations/Sit/Waiting/Music_HighwayToHell_1"]
