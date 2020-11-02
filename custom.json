@@ -12,9 +12,9 @@
     "args": ["animations/Sit/Waiting/Music_HighwayToHell_1"]
   },
     {
-    "words": ["rock and roll"],
+    "words": ["laugh"],
     "proxy": "ALBehaviorManager",
     "method": "runBehavior",
-    "args": ["animations/Sit/Waiting/Music_HighwayToHell_1"]
+    "args": ["animations/Sit/Emotions/Positive/Laugh_1"]
   },
 ]
