@@ -17,4 +17,10 @@
     "method": "runBehavior",
     "args": ["animations/Sit/Waiting/DriveCar_1"]
   },
+    {
+    "words": ["give it to me"],
+    "proxy": "ALBehaviorManager",
+    "method": "runBehavior",
+    "args": [".lastUploadedChoregrapheBehavior/behavior_1"]
+  },
 ]
