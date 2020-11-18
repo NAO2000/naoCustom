@@ -18,9 +18,9 @@
     "args": ["animations/Sit/Waiting/DriveCar_1"]
   },
     {
-    "words": ["give it to me"],
+    "words": ["fist bump", "gib mir die faust"],
     "proxy": "ALBehaviorManager",
     "method": "runBehavior",
-    "args": [".lastUploadedChoregrapheBehavior/behavior_1"]
+    "args": [".lastUploadedChoregrapheBehavior/fist_bump_01"]
   },
 ]
