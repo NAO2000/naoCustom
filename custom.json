@@ -24,7 +24,7 @@
     "args": [".lastUploadedChoregrapheBehavior/fist_bump_01"]
   },
       {
-    "words": ["high 5", "hand"],
+    "words": ["hand"],
     "proxy": "ALBehaviorManager",
     "method": "runBehavior",
     "args": [".lastUploadedChoregrapheBehavior/high_five_01"]
